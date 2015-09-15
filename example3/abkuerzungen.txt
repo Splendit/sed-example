@@ -1,0 +1,8 @@
+Sg.=Sehr geehrte
+ggf.=gegebenenfalls
+z.B.=zum Beispiel
+KM=Kaltmiete
+NK=Nebenkosten
+HZK=Heizkosten
+KT=Kaution
+Mfg=Mit freundlichen Grüßen
